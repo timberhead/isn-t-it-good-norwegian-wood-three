@@ -1,0 +1,34 @@
+create a password generator
+
+employee can create a new password
+
+
+
+employee will be prompted to select the length of the new password
+
+new password length:
+        minimum:  >= 8 characters
+        maximum:  <= 128 characters
+
+
+
+employee will be prompted to select lowercase characters for new password:  yes or no
+
+employee will be prompted to select uppercase characters for new password:  yes or no
+
+employee will be prompted to select numeric characters for new password:  yes or no
+
+employee will be prompted to select special characters for new password:  yes or no
+
+employee can select one, two, three, or all of these password values for the new password
+
+
+
+
+the new password will be a string of random characters from the selected password values
+
+
+
+the new password will be displayed in the generate a password field
+        
+
